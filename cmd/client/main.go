@@ -18,7 +18,7 @@ const socketPath = "unix:///run/spire/sockets/agent.sock"
 func main() {
 	ctx := context.Background()
 
-	// Same as the server: get our SVID and the bundle from the a
+	// Same as the server: get our SVID and the bundle from the agent
 	source, err := workloadapi.NewX509Source(ctx,
 		workloadapi.WithClientOptions(workloadapi.WithAddr(socketPath)))
 	if err != nil {
