@@ -23,7 +23,7 @@ spec:
       serviceAccountName: service-b
       containers:
         - name: service-b
-          image: spiffe-demo:0.1
+          image: spiffe-demo:0.2
           command: ["/usr/local/bin/server"]
           env:
             - name: ALLOWED_CLIENT

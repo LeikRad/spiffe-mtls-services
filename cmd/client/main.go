@@ -31,7 +31,7 @@ func main() {
 	tlsConfig := tlsconfig.MTLSClientConfig(source, source, tlsconfig.AuthorizeID(serverID))
 
 	client := &http.Client{
-		Transport: &http.Transport{TLSClientConfig: tlsConfig},
+		Transport: &http.Transport{TLSClientConfig: tlsConfig, DisableKeepAlives: true},
 		Timeout:   5 * time.Second,
 	}
 	url := os.Getenv("SERVER_URL")

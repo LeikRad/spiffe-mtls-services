@@ -23,7 +23,7 @@ spec:
       serviceAccountName: service-a
       containers:
         - name: service-a
-          image: spiffe-demo:0.1
+          image: spiffe-demo:0.2
           command: ["/usr/local/bin/client"]
           env:
             - name: SERVER_ID
