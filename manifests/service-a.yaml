@@ -1,0 +1,41 @@
+apiVersion: v1
+kind: ServiceAccount
+metadata:
+  name: service-a
+  namespace: default
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: service-a
+  namespace: default
+  labels:
+    app: service-a
+spec:
+  selector:
+    matchLabels:
+      app: service-a
+  template:
+    metadata:
+      labels:
+        app: service-a
+    spec:
+      serviceAccountName: service-a
+      containers:
+        - name: service-a
+          image: spiffe-demo:0.1
+          command: ["/usr/local/bin/client"]
+          env:
+            - name: SERVER_ID
+              value: spiffe://example.org/ns/default/sa/service-b
+            - name: SERVER_URL
+              value: https://service-b:8443/
+          volumeMounts:
+            - name: spire-agent-socket
+              mountPath: /run/spire/sockets
+              readOnly: true
+      volumes:
+        - name: spire-agent-socket
+          hostPath:
+            path: /run/spire/sockets
+            type: Directory
