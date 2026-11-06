@@ -1,0 +1,4 @@
+2026/11/06 01:14:29 request failed: Get "https://service-b:8443/": unexpected ID "spiffe://example.org/ns/default/sa/service-b"
+2026/11/06 01:14:34 request failed: Get "https://service-b:8443/": unexpected ID "spiffe://example.org/ns/default/sa/service-b"
+2026/11/06 01:14:39 request failed: Get "https://service-b:8443/": unexpected ID "spiffe://example.org/ns/default/sa/service-b"
+2026/11/06 01:14:44 request failed: Get "https://service-b:8443/": unexpected ID "spiffe://example.org/ns/default/sa/service-b"

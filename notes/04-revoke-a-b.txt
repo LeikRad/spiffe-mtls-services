@@ -1,0 +1,5 @@
+2026/11/06 01:18:26 http: TLS handshake error from 10.244.1.9:34240: x509svid: could not verify leaf certificate: x509: certificate has expired or is not yet valid: current time 2026-11-06T01:18:26Z is after 2026-11-06T01:17:57Z
+2026/11/06 01:18:31 http: TLS handshake error from 10.244.1.9:34242: x509svid: could not verify leaf certificate: x509: certificate has expired or is not yet valid: current time 2026-11-06T01:18:31Z is after 2026-11-06T01:17:57Z
+2026/11/06 01:18:36 http: TLS handshake error from 10.244.1.9:53592: x509svid: could not verify leaf certificate: x509: certificate has expired or is not yet valid: current time 2026-11-06T01:18:36Z is after 2026-11-06T01:17:57Z
+2026/11/06 01:18:41 http: TLS handshake error from 10.244.1.9:53606: x509svid: could not verify leaf certificate: x509: certificate has expired or is not yet valid: current time 2026-11-06T01:18:41Z is after 2026-11-06T01:17:57Z
+2026/11/06 01:18:46 http: TLS handshake error from 10.244.1.9:37688: x509svid: could not verify leaf certificate: x509: certificate has expired or is not yet valid: current time 2026-11-06T01:18:46Z is after 2026-11-06T01:17:57Z

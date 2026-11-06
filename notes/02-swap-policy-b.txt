@@ -1,0 +1,5 @@
+2026/11/06 01:13:25 http: TLS handshake error from 10.244.1.3:58532: unexpected ID "spiffe://example.org/ns/default/sa/service-a"
+2026/11/06 01:13:30 request from spiffe://example.org/ns/default/sa/service-c
+2026/11/06 01:13:30 http: TLS handshake error from 10.244.1.3:58540: unexpected ID "spiffe://example.org/ns/default/sa/service-a"
+2026/11/06 01:13:35 request from spiffe://example.org/ns/default/sa/service-c
+2026/11/06 01:13:35 http: TLS handshake error from 10.244.1.3:43730: unexpected ID "spiffe://example.org/ns/default/sa/service-a"

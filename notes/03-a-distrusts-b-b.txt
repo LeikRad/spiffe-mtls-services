@@ -1,0 +1,4 @@
+2026/11/06 01:14:39 http: TLS handshake error from 10.244.1.8:36352: remote error: tls: bad certificate
+2026/11/06 01:14:40 http: TLS handshake error from 10.244.1.5:51944: unexpected ID "spiffe://example.org/ns/default/sa/service-c"
+2026/11/06 01:14:44 http: TLS handshake error from 10.244.1.8:38492: remote error: tls: bad certificate
+2026/11/06 01:14:45 http: TLS handshake error from 10.244.1.5:41242: unexpected ID "spiffe://example.org/ns/default/sa/service-c"

@@ -1,0 +1,6 @@
+2026/11/06 01:13:10 request failed: Get "https://service-b:8443/": remote error: tls: bad certificate
+2026/11/06 01:13:15 request failed: Get "https://service-b:8443/": remote error: tls: bad certificate
+2026/11/06 01:13:20 request failed: Get "https://service-b:8443/": remote error: tls: bad certificate
+2026/11/06 01:13:25 request failed: Get "https://service-b:8443/": remote error: tls: bad certificate
+2026/11/06 01:13:30 request failed: Get "https://service-b:8443/": remote error: tls: bad certificate
+2026/11/06 01:13:35 request failed: Get "https://service-b:8443/": remote error: tls: bad certificate

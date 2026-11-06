@@ -1,0 +1,38 @@
+2026/11/06 01:15:41 200 OK hello spiffe://example.org/ns/default/sa/service-a
+2026/11/06 01:15:46 200 OK hello spiffe://example.org/ns/default/sa/service-a
+2026/11/06 01:15:51 200 OK hello spiffe://example.org/ns/default/sa/service-a
+2026/11/06 01:15:56 200 OK hello spiffe://example.org/ns/default/sa/service-a
+2026/11/06 01:16:01 200 OK hello spiffe://example.org/ns/default/sa/service-a
+2026/11/06 01:16:06 200 OK hello spiffe://example.org/ns/default/sa/service-a
+2026/11/06 01:16:11 200 OK hello spiffe://example.org/ns/default/sa/service-a
+2026/11/06 01:16:16 200 OK hello spiffe://example.org/ns/default/sa/service-a
+2026/11/06 01:16:21 200 OK hello spiffe://example.org/ns/default/sa/service-a
+2026/11/06 01:16:26 200 OK hello spiffe://example.org/ns/default/sa/service-a
+2026/11/06 01:16:31 200 OK hello spiffe://example.org/ns/default/sa/service-a
+2026/11/06 01:16:36 200 OK hello spiffe://example.org/ns/default/sa/service-a
+2026/11/06 01:16:41 200 OK hello spiffe://example.org/ns/default/sa/service-a
+2026/11/06 01:16:46 200 OK hello spiffe://example.org/ns/default/sa/service-a
+2026/11/06 01:16:51 200 OK hello spiffe://example.org/ns/default/sa/service-a
+2026/11/06 01:16:56 200 OK hello spiffe://example.org/ns/default/sa/service-a
+2026/11/06 01:17:01 200 OK hello spiffe://example.org/ns/default/sa/service-a
+2026/11/06 01:17:06 200 OK hello spiffe://example.org/ns/default/sa/service-a
+2026/11/06 01:17:11 200 OK hello spiffe://example.org/ns/default/sa/service-a
+2026/11/06 01:17:16 200 OK hello spiffe://example.org/ns/default/sa/service-a
+2026/11/06 01:17:21 200 OK hello spiffe://example.org/ns/default/sa/service-a
+2026/11/06 01:17:26 200 OK hello spiffe://example.org/ns/default/sa/service-a
+2026/11/06 01:17:31 200 OK hello spiffe://example.org/ns/default/sa/service-a
+2026/11/06 01:17:36 200 OK hello spiffe://example.org/ns/default/sa/service-a
+2026/11/06 01:17:41 200 OK hello spiffe://example.org/ns/default/sa/service-a
+2026/11/06 01:17:46 200 OK hello spiffe://example.org/ns/default/sa/service-a
+2026/11/06 01:17:51 200 OK hello spiffe://example.org/ns/default/sa/service-a
+2026/11/06 01:17:56 200 OK hello spiffe://example.org/ns/default/sa/service-a
+2026/11/06 01:18:01 200 OK hello spiffe://example.org/ns/default/sa/service-a
+2026/11/06 01:18:06 200 OK hello spiffe://example.org/ns/default/sa/service-a
+2026/11/06 01:18:11 200 OK hello spiffe://example.org/ns/default/sa/service-a
+2026/11/06 01:18:16 200 OK hello spiffe://example.org/ns/default/sa/service-a
+2026/11/06 01:18:21 200 OK hello spiffe://example.org/ns/default/sa/service-a
+2026/11/06 01:18:26 request failed: Get "https://service-b:8443/": remote error: tls: bad certificate
+2026/11/06 01:18:31 request failed: Get "https://service-b:8443/": remote error: tls: bad certificate
+2026/11/06 01:18:36 request failed: Get "https://service-b:8443/": remote error: tls: bad certificate
+2026/11/06 01:18:41 request failed: Get "https://service-b:8443/": remote error: tls: bad certificate
+2026/11/06 01:18:46 request failed: Get "https://service-b:8443/": remote error: tls: bad certificate

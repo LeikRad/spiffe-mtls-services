@@ -1,0 +1,36 @@
+2026/11/06 01:17:36 200 OK hello spiffe://example.org/ns/default/sa/service-a
+2026/11/06 01:17:41 200 OK hello spiffe://example.org/ns/default/sa/service-a
+2026/11/06 01:17:46 200 OK hello spiffe://example.org/ns/default/sa/service-a
+2026/11/06 01:17:51 200 OK hello spiffe://example.org/ns/default/sa/service-a
+2026/11/06 01:17:56 200 OK hello spiffe://example.org/ns/default/sa/service-a
+2026/11/06 01:18:01 200 OK hello spiffe://example.org/ns/default/sa/service-a
+2026/11/06 01:18:06 200 OK hello spiffe://example.org/ns/default/sa/service-a
+2026/11/06 01:18:11 200 OK hello spiffe://example.org/ns/default/sa/service-a
+2026/11/06 01:18:16 200 OK hello spiffe://example.org/ns/default/sa/service-a
+2026/11/06 01:18:21 200 OK hello spiffe://example.org/ns/default/sa/service-a
+2026/11/06 01:18:26 request failed: Get "https://service-b:8443/": remote error: tls: bad certificate
+2026/11/06 01:18:31 request failed: Get "https://service-b:8443/": remote error: tls: bad certificate
+2026/11/06 01:18:36 request failed: Get "https://service-b:8443/": remote error: tls: bad certificate
+2026/11/06 01:18:41 request failed: Get "https://service-b:8443/": remote error: tls: bad certificate
+2026/11/06 01:18:46 request failed: Get "https://service-b:8443/": remote error: tls: bad certificate
+2026/11/06 01:18:51 request failed: Get "https://service-b:8443/": remote error: tls: bad certificate
+2026/11/06 01:18:56 request failed: Get "https://service-b:8443/": remote error: tls: bad certificate
+2026/11/06 01:19:01 request failed: Get "https://service-b:8443/": remote error: tls: bad certificate
+2026/11/06 01:19:06 request failed: Get "https://service-b:8443/": remote error: tls: bad certificate
+2026/11/06 01:19:11 request failed: Get "https://service-b:8443/": remote error: tls: bad certificate
+2026/11/06 01:19:16 request failed: Get "https://service-b:8443/": remote error: tls: bad certificate
+2026/11/06 01:19:21 request failed: Get "https://service-b:8443/": remote error: tls: bad certificate
+2026/11/06 01:19:26 request failed: Get "https://service-b:8443/": remote error: tls: bad certificate
+2026/11/06 01:19:31 request failed: Get "https://service-b:8443/": remote error: tls: bad certificate
+2026/11/06 01:19:36 request failed: Get "https://service-b:8443/": remote error: tls: bad certificate
+2026/11/06 01:19:41 request failed: Get "https://service-b:8443/": remote error: tls: bad certificate
+2026/11/06 01:19:46 request failed: Get "https://service-b:8443/": remote error: tls: bad certificate
+2026/11/06 01:19:51 request failed: Get "https://service-b:8443/": remote error: tls: bad certificate
+2026/11/06 01:19:56 request failed: Get "https://service-b:8443/": remote error: tls: bad certificate
+2026/11/06 01:20:01 request failed: Get "https://service-b:8443/": remote error: tls: bad certificate
+2026/11/06 01:20:07 200 OK hello spiffe://example.org/ns/default/sa/service-a
+2026/11/06 01:20:12 200 OK hello spiffe://example.org/ns/default/sa/service-a
+2026/11/06 01:20:17 200 OK hello spiffe://example.org/ns/default/sa/service-a
+2026/11/06 01:20:22 200 OK hello spiffe://example.org/ns/default/sa/service-a
+2026/11/06 01:20:27 200 OK hello spiffe://example.org/ns/default/sa/service-a
+2026/11/06 01:20:32 200 OK hello spiffe://example.org/ns/default/sa/service-a
